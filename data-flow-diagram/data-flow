@@ -1,1 +1,20 @@
+# Airbnb Clone Data Flow Diagram
+
+This diagram shows how data flows through the Airbnb Clone backend system, including users, core processes, and data stores.
+
+## **Key Elements**
+- **External Entities**: Guest, Host, Payment Gateway
+- **Processes**:
+  - User Management
+  - Property Management
+  - Booking System
+  - Payment Processing
+- **Data Stores**:
+  - User Database
+  - Property Database
+  - Booking Database
+  - Payment Records
+
+## **Diagram**
+![Data Flow Diagram](data-flow.png)
 
